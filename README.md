@@ -1,2 +1,2 @@
 # BlockChain
-BcrockChain para C# .NET 8
+BlockChain para C# com .NET 8
